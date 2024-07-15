@@ -1,0 +1,21 @@
+
+r
+java:S1989$"PHandle the following exception that could be thrown by "getWriter": IOException.(‘Şî¸ıÿÿÿÿ8ßíöœ‹2
+‡
+java:S1989$"eHandle the following exception that could be thrown by "writeValueAsString": JsonProcessingException.(‘Şî¸ıÿÿÿÿ8äíöœ‹2
+r
+java:S1989'"PHandle the following exception that could be thrown by "getWriter": IOException.(ûŸà¥úÿÿÿÿ8ëíöœ‹2
+›
+java:S1989/"yHandle the following exceptions that could be thrown by "readValue": IOException, StreamReadException, DatabindException.(ŠÖí ÿÿÿÿÿ8÷íöœ‹2
+w
+java:S1989/"UHandle the following exception that could be thrown by "getInputStream": IOException.(ŠÖí ÿÿÿÿÿ8øíöœ‹2
+›
+java:S19897"yHandle the following exceptions that could be thrown by "readValue": IOException, StreamReadException, DatabindException.(ŠÖí ÿÿÿÿÿ8µîöœ‹2
+w
+java:S19897"UHandle the following exception that could be thrown by "getInputStream": IOException.(ŠÖí ÿÿÿÿÿ8¶îöœ‹2
+m
+java:S1989E"PHandle the following exception that could be thrown by "getWriter": IOException.(¼£ø©8Ãîöœ‹2
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(íÉûÿÿÿÿ8Îîöœ‹2
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Æ–ÿ´üÿÿÿÿ8Ğîöœ‹2
